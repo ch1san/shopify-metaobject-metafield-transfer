@@ -1,4 +1,4 @@
-# Metaobject Transfer Tool
+# Metaobject and Metafield Reference Copy Tool
 
 ## Setup
 
